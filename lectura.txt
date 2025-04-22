@@ -20,8 +20,3 @@ Index(['First Name', 'Middle Name', 'Last Name', 'Phonetic First Name',
        'Custom Field 1 - Value'],
       dtype='object')
 Iterando filas
-First Name -> Yamaha XMAX 125 Tech Max 2021
-First Name -> Yolanda
-First Name -> Yolanda (Narval)
-First Name -> Yoli (Juan)
-First Name -> Yoli
